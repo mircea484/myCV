@@ -1,0 +1,16 @@
+body {
+	/*background-image: url(https://www.orange.md/images/logo_orange.png);
+	background-repeat: repeat;*/
+	background-color: rgb(255,121,1);
+	text-align: center;
+}
+
+ul { 
+	display: inline-block; 
+	text-align: center; 
+}
+
+th, td, tr {
+	border-style: solid;
+}
+
